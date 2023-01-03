@@ -56,7 +56,7 @@ python toll_traffic_generator.py
 ```
 python streaming_data_reader.py
 ```
-![alt text](https://github.com/Mzsd/KafkaLiveTollData/blob/main/img1.png?raw=true)
+![alt text](https://github.com/Mzsd/KafkaLiveTollData/blob/main/img1.jpg?raw=true)
 
 ![alt text](https://github.com/Mzsd/KafkaLiveTollData/blob/main/img2.png?raw=true)
 
